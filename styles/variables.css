@@ -2,3 +2,12 @@
   Переменные для вашего проекта
   и их переопределение под различные устройства
 */
+:root {
+  --font-family-monospace: 'IBM Plex Mono', monospace;
+  --text-font-size: 1.125rem;
+  --text-line-height: 1.4625rem;
+  --title-line-height: 8.0956rem;
+  --text-weight: bold;
+  --text-weight-regular: normal;
+  --line-height: 82.5%;
+}
