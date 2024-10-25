@@ -19,6 +19,7 @@
   --header-shadow: var(--def-color);
   --title-color: var(--def-color);
   --text-color: #f1b2ce;
+  --hover-border-color: rgba(255, 0, 112, 0.4);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -33,6 +34,7 @@
     --header-shadow: var(--def-color);
     --title-color: var(--def-color);
     --text-color: #f1b2ce;
+    --hover-border-color: rgba(255, 0, 112, 0.4);
   }
 
 }

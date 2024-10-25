@@ -19,6 +19,7 @@
   --header-shadow: #ff0070;
   --title-color: var(--def-color);
   --text-color: var(--def-color);
+  --hover-border-color: rgba(50, 49, 45, 0.4);
 
   & .rec-decor::before,
   & .rec-decor::after {
@@ -38,6 +39,7 @@
     --header-shadow: #ff0070;
     --title-color: var(--def-color);
     --text-color: var(--def-color);
+    --hover-border-color: rgba(50, 49, 45, 0.4);
   }
 
     .page.theme_auto .rec-decor {
